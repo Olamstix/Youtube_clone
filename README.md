@@ -1,2 +1,2 @@
 # Youtube_clone
-Youtube Clone built ith just HTML and CSS
+Youtube Clone built with just HTML and CSS
